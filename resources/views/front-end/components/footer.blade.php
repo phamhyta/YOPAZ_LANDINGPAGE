@@ -24,7 +24,7 @@
                 <input class="w-1/2 p-3 border shadow-lg rounded-xl pl-3 mr-2 outline-none" type="text" name="first_name" placeholder='First name'/>
                 <input class="w-1/2 p-3 border shadow-lg rounded-xl pl-3 ml-2 outline-none" type="text" name="last_name" placeholder='Lastname' style="z-Index:5"/>
             </div>
-            <button type="submit" class="ml-60 px-4 py-2 mt-4 font-bold shadow-lg hover:bg-slate-300 border-2 rounded-xl">Nhận mail liên hệ</button>
+            <button type="submit" class="ml-60 px-4 py-2 mt-4 font-bold shadow-lg hover:bg-slate-300 border-2 rounded-xl">Get contact email</button>
         </div>
         </form>
     </div>

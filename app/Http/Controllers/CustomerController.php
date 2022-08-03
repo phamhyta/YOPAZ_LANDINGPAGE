@@ -28,8 +28,8 @@ class CustomerController extends Controller
                 $message->from("phamhyta@gmail.com","YOPAZ.COM");
                 });
         } catch (\Throwable $th) {
-            return redirect() -> back() -> with('no', 'Dịch vụ tạm thời lỗi');
+            return redirect() -> back() -> with('no', 'Temporary service failure');
         }
-        return redirect() -> back() -> with('yes', 'Vui lòng check mail để nhận thêm thông tin chi tiết');
+        return redirect() -> back() -> with('yes', 'Please check your email for more details');
     }
 }

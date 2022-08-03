@@ -1,7 +1,7 @@
 <div class="pt-16 font-sans" style=" background: linear-gradient(135deg, #3C8CE7 0%, #00EAFF 100%)">
             <div class="flex justify-center">
                 <div class="flex mx-96 justify-center py-12 bg-gradient-to-br from-cyan-300 to-blue-700" style="width: 595px;
-    height: 186px; border-Radius: 79px">
+                    height: 186px; border-Radius: 79px">
                     <p class="font-bold text-white text-7xl">WHAT WE DO</p>
                 </div>
             </div>
