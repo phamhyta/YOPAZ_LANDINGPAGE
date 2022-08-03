@@ -31,7 +31,7 @@
     <div class="flex px-20 pt-10"  style="background: linear-gradient(135deg, #C2FFD8 0%, #465EFB 100%)">
         <div class="text-white w-5/12">
             <div class="text-3xl font-bold pt-4 pb-1">Our address</div>
-            <div class="">Tầng 04, toà nhà Việt Tower, số 01 Thái Hà, phường Trung Liệt, quận Đống Đa, Hà Nội</div>
+            <div class="">Tầng 4, Tòa A Gold Season, số 47 Nguyễn Tuân, Thanh Xuân, Hà Nội</div>
             <div class="py-8">yopaz.vn</div>
         </div>
         <div class="text-white pl-10">
